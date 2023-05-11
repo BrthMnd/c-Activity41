@@ -1,0 +1,15 @@
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\bin\Debug\net7.0\c#-41.exe
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\bin\Debug\net7.0\c#-41.deps.json
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\bin\Debug\net7.0\c#-41.runtimeconfig.json
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\bin\Debug\net7.0\c#-41.dll
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\bin\Debug\net7.0\c#-41.pdb
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\obj\Debug\net7.0\c#-41.csproj.AssemblyReference.cache
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\obj\Debug\net7.0\c#-41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\obj\Debug\net7.0\c#-41.AssemblyInfoInputs.cache
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\obj\Debug\net7.0\c#-41.AssemblyInfo.cs
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\obj\Debug\net7.0\c#-41.csproj.CoreCompileInputs.cache
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\obj\Debug\net7.0\c#-41.dll
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\obj\Debug\net7.0\refint\c#-41.dll
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\obj\Debug\net7.0\c#-41.pdb
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\obj\Debug\net7.0\c#-41.genruntimeconfig.cache
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\c-Activity41\obj\Debug\net7.0\ref\c#-41.dll

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Sena\\.nuget\\packages\\": {}
+    "C:\\Users\\devel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sena\\Documents\\SisR\\trimestre7\\.net\\c#-41\\c#-41.csproj",
+      "projectUniqueName": "C:\\Users\\devel\\Documents\\Actividades\\Trimestre - 5\\.net\\c-Activity41\\c#-41.csproj",
       "projectName": "c#-41",
-      "projectPath": "C:\\Users\\Sena\\Documents\\SisR\\trimestre7\\.net\\c#-41\\c#-41.csproj",
-      "packagesPath": "C:\\Users\\Sena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sena\\Documents\\SisR\\trimestre7\\.net\\c#-41\\obj\\",
+      "projectPath": "C:\\Users\\devel\\Documents\\Actividades\\Trimestre - 5\\.net\\c-Activity41\\c#-41.csproj",
+      "packagesPath": "C:\\Users\\devel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\devel\\Documents\\Actividades\\Trimestre - 5\\.net\\c-Activity41\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\devel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
